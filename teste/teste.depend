@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1678789082 source:c:\users\2222104\desktop\teste\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"exer2.h"
+	"exer3.h"
+	"exer4.h"
+	"exer5.h"
+	"exer6.h"
+	"locale.h"
+
+1678784802 c:\users\2222104\desktop\teste\teste\exer2.h
+	"bonus.h"
+
+1678788122 c:\users\2222104\desktop\teste\teste\bonus.h
+
+1678785725 c:\users\2222104\desktop\teste\teste\exer3.h
+
+1678786196 c:\users\2222104\desktop\teste\teste\exer4.h
+	"celcius.h"
+
+1678786218 c:\users\2222104\desktop\teste\teste\celcius.h
+
+1678787029 c:\users\2222104\desktop\teste\teste\exer5.h
+	"media.h"
+	"mediareve.h"
+
+1678786835 c:\users\2222104\desktop\teste\teste\media.h
+
+1678787063 c:\users\2222104\desktop\teste\teste\mediareve.h
+
+1678789048 c:\users\2222104\desktop\teste\teste\exer6.h
+	"calculos.h"
+
+1678788811 c:\users\2222104\desktop\teste\teste\calculos.h
+
+1679948392 source:c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"exer2.h"
+	"exer3.h"
+	"exer4.h"
+	"exer5.h"
+	"exer6.h"
+	"locale.h"
+
+1679948384 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\exer2.h
+	"bonus.h"
+
+1679948379 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\bonus.h
+
+1679948386 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\exer3.h
+
+1679948387 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\exer4.h
+	"celcius.h"
+
+1679948382 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\celcius.h
+
+1679948389 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\exer5.h
+	"media.h"
+	"mediareve.h"
+
+1679948393 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\media.h
+
+1679948395 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\mediareve.h
+
+1679948390 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\exer6.h
+	"calculos.h"
+
+1679948381 c:\users\cm\downloads\brunoxarez_teste\brunoxarez_teste\teste\calculos.h
+

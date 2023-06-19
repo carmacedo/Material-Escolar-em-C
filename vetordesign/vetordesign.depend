@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680016307 source:c:\users\carla.macedo\desktop\tgpsi_p\vetordesign\main.c
+	<stdio.h>
+	<stdlib.h>
+

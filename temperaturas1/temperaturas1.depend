@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681826981 source:c:\users\carla.macedo\desktop\tgpsi_p\temperaturas1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

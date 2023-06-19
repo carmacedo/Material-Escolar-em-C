@@ -1,0 +1,8 @@
+João   10
+Maria   8
+Joana   14
+Alex   10
+Joana   10,00
+Dinis   9,00
+Nsei   4,00
+llll   12,00

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685004016 source:c:\users\carla.macedo\desktop\tgpsiq\correxercficha2_psi7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.c>
+

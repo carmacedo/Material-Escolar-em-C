@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680007844 source:c:\users\carla.macedo\desktop\tgpsiq\vetoresbi\main.c
+	<stdio.h>
+	<stdlib.h>
+

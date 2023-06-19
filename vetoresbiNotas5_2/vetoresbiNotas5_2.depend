@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680010980 source:c:\users\carla.macedo\desktop\tgpsiq\vetoresbinotas5_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.c>
+
